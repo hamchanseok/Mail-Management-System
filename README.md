@@ -1,2 +1,3 @@
-# Mail-Management-System
-메일 관리 시스템
+# 메일 관리 시스템 (Mail-Management-System)
+## 프로젝트 개요 
+메일 관리 시스템은 사용자 맞춤형 메일 분류 및 관리 시스템입니다.
